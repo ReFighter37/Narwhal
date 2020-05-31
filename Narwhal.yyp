@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "6635b75c-5163-4078-b4b8-1ac76dca9606",
+            "Value": {
+                "id": "f86f12b7-9d2d-4c7b-9e5d-dff004ef87f9",
+                "resourcePath": "objects\\obj_mob_fish\\obj_mob_fish.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6fe2b3ba-6f67-42d1-bb79-a5395413581a",
             "Value": {
                 "id": "9ce20ecc-fa1d-4e6b-8813-7df755517603",
@@ -159,11 +167,27 @@
             }
         },
         {
+            "Key": "8c719600-c2f6-42e5-a9c1-e48536aaa0a9",
+            "Value": {
+                "id": "1162248a-3f11-452a-8741-86c85be0415c",
+                "resourcePath": "views\\8c719600-c2f6-42e5-a9c1-e48536aaa0a9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "69e7bfe7-8e6a-4bc9-8984-985508c062a7",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "942e18ac-50f9-4563-95b5-16f17d92bcbd",
+            "Value": {
+                "id": "f8e6b64a-1ef1-4309-a30b-293bb9c31b88",
+                "resourcePath": "objects\\obj_mob_generator\\obj_mob_generator.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -199,6 +223,14 @@
             }
         },
         {
+            "Key": "a6d01233-0354-4717-845e-01df90260ae6",
+            "Value": {
+                "id": "6da01fb8-f9f0-4ef2-8ad3-179c9b2df5b9",
+                "resourcePath": "views\\a6d01233-0354-4717-845e-01df90260ae6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "ad5b241e-933e-45c0-8bc7-18ce018e9b09",
             "Value": {
                 "id": "a5cc61af-a01f-4a37-81c1-ad0038c52c0c",
@@ -220,6 +252,14 @@
                 "id": "e0ac7333-33e0-469e-abe7-3d0d7e88b366",
                 "resourcePath": "views\\b7f0d1bd-b198-470d-bf8d-eedbd0908801.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bc0a34a4-e7c0-4c6d-86ac-1ebc8aa4ef75",
+            "Value": {
+                "id": "ac637b13-ed23-4ec6-95ae-1055d801ec3b",
+                "resourcePath": "sprites\\spr_fishes\\spr_fishes.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -18,7 +18,8 @@ if (dragging = true) {
 	if (obj_narval.y < 1310) {
 		mp_linear_step(xx, yy+147, 10, 0);
 	} else {
-		mp_linear_step(xx, yy, 10, 0);
+		y = round(lerp(yy, y, 0.9));
+		//mp_linear_step(xx, yy, 10, 0);
 	}
 }
 
