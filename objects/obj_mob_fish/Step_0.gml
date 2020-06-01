@@ -7,11 +7,11 @@ if (y < -32) or (y > 2100) {
 }
 
 if (catched = true) {
-	x_pos += 2;
+	x_pos += 1;
 	y = obj_narval.y + lengthdir_y(obj_narval.sprite_width/2-x_pos, obj_narval.image_angle);	
 	x = obj_narval.x + lengthdir_x(obj_narval.sprite_width/2-x_pos, obj_narval.image_angle);	
 	speed = 0;
-	image_alpha -= 0.03;
+	image_alpha -= 0.015;
 	image_angle = obj_narval.image_angle - angle;
 	if (image_alpha <= 0) {
 		instance_destroy(self);	
