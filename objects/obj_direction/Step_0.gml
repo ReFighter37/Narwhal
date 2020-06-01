@@ -15,7 +15,7 @@ if (dragging = true) {
 	}
 } else {
 	//y = lerp(yy, y, 0.9)
-	if (obj_narval.y < 1310) {
+	if (obj_narval.y < global.water_level) {
 		mp_linear_step(xx, yy+147, 10, 0);
 	} else {
 		y = round(lerp(yy, y, 0.9));

@@ -4,7 +4,7 @@ catched = false;
 angle = 0;
 x_pos = 0;
 
-image_index = irandom_range(0, 1);
+image_index = irandom_range(0, 7);
 direction = 0;
 speed = irandom_range(-10, -2);
 if (speed < -4) {
