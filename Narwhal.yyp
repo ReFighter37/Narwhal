@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0b56ff92-3b0d-4941-bf44-252d7405e3a8",
+            "Value": {
+                "id": "da2d3b51-83d9-4c99-bb8a-7781ed525db5",
+                "resourcePath": "sprites\\spr_clouds\\spr_clouds.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "11b1df14-fcf5-4799-9c56-4ffb62d0b74e",
             "Value": {
                 "id": "4822cc7b-918c-4595-8aa4-2835eb7dde46",
@@ -76,6 +84,14 @@
                 "id": "e4d2b4e9-a4e2-480c-b751-c96d785a067b",
                 "resourcePath": "sprites\\bckg_sky\\bckg_sky.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "342d4323-8880-4277-8995-c722da732aea",
+            "Value": {
+                "id": "4425ffd7-4df2-4f33-a52e-42584978e7c3",
+                "resourcePath": "views\\342d4323-8880-4277-8995-c722da732aea.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -140,6 +156,14 @@
                 "id": "9ce20ecc-fa1d-4e6b-8813-7df755517603",
                 "resourcePath": "sprites\\spr_narval\\spr_narval.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "73694e70-313b-4572-9675-e7a0ef2896c1",
+            "Value": {
+                "id": "91c2575b-9f8f-4b95-a560-04eb6a7c0007",
+                "resourcePath": "views\\73694e70-313b-4572-9675-e7a0ef2896c1.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -367,6 +391,14 @@
             }
         },
         {
+            "Key": "cd293de1-3c68-4ecb-bd39-a5f2310a1171",
+            "Value": {
+                "id": "6efda79b-641b-4290-a8bd-65406f4caa1b",
+                "resourcePath": "objects\\obj_clouds_generator\\obj_clouds_generator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d46d4bb7-d4f8-4e02-8b6d-dfa6301ef023",
             "Value": {
                 "id": "d4d5c929-2e97-4f6d-ba7b-96c77b8b9b94",
@@ -420,6 +452,14 @@
                 "id": "46444537-837d-4287-bd3e-4c35d5768b19",
                 "resourcePath": "sprites\\spr_sun\\spr_sun.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fe503972-e468-4cce-8302-523cefbb0770",
+            "Value": {
+                "id": "b9e2c6c8-e55f-46b0-8ee8-233aeb7ebc0b",
+                "resourcePath": "objects\\obj_cloud\\obj_cloud.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
