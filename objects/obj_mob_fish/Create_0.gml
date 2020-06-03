@@ -11,7 +11,7 @@ image_index = irandom_range(0, 7);
 direction = 0;
 speed = irandom_range(-10, -2);
 if (speed < -4) {
-	image_xscale = -1;
+	image_xscale = image_xscale*(-1);
 }
 
 _partabc_shape=pt_shape_ring
