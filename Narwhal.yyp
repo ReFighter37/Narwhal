@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "44f5df29-5b24-4647-84c1-e5de68c0943f",
+            "Value": {
+                "id": "2eb77dff-8f4f-4fdc-8786-60c93256ea62",
+                "resourcePath": "sprites\\bckg_dno\\bckg_dno.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4dece083-8306-4831-b5d7-5eb2f9fc0718",
             "Value": {
                 "id": "95522666-21d7-4964-9f00-a51528df3dea",

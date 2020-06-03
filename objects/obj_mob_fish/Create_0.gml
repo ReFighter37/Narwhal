@@ -3,6 +3,9 @@
 catched = false;
 angle = 0;
 x_pos = 0;
+scale = random_range(0.4, 0.7);
+image_xscale = scale;
+image_yscale = image_xscale;
 
 image_index = irandom_range(0, 7);
 direction = 0;
