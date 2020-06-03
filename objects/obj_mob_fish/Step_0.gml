@@ -18,6 +18,6 @@ if (catched = true) {
 	}
 } else {
 	part_emitter_region(_sysabc,_emiabc,x-_emiabc_radius,x+_emiabc_radius,y-_emiabc_radius,y+_emiabc_radius,_emiabc_shape,_emiabc_distr)
-	part_emitter_burst(_sysabc,_emiabc,_partabc,_partabc_count);
+	//part_emitter_burst(_sysabc,_emiabc,_partabc,_partabc_count);
 }
 
