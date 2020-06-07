@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "4b5af07e-9b9c-4d96-8be3-088cee9c2f15",
+            "Value": {
+                "id": "f4bd342c-e21c-4a36-91da-d44210e08130",
+                "resourcePath": "objects\\obj_deco_generator\\obj_deco_generator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4dece083-8306-4831-b5d7-5eb2f9fc0718",
             "Value": {
                 "id": "95522666-21d7-4964-9f00-a51528df3dea",
@@ -188,6 +196,14 @@
                 "id": "7b23ade9-f354-4429-9623-402ca6cf3a93",
                 "resourcePath": "views\\7e35a8e5-6be4-4b61-bd23-b6199b4addcf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8001c6ee-ae44-464f-988a-aab9de8ff422",
+            "Value": {
+                "id": "2e8b5956-e2a3-47df-97dc-7c09058e953e",
+                "resourcePath": "objects\\obj_deco\\obj_deco.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -292,6 +308,14 @@
                 "id": "40c0c56c-bd53-4e2a-ac5e-53d5cf99ccdb",
                 "resourcePath": "views\\a4f75fc5-0a8a-48b9-a7ea-680b1721e1c5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a6cab10a-bb9b-42a2-a7c3-b18fdc73af2c",
+            "Value": {
+                "id": "b4649636-0be0-4a14-9564-20ffdbcc97f8",
+                "resourcePath": "sprites\\spr_deco\\spr_deco.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -436,6 +460,14 @@
                 "id": "e71d5b86-399b-402e-9e18-c62316eb5ad8",
                 "resourcePath": "views\\e4422999-7fbf-46af-85ed-0d59b0539eed.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e9dd35c1-7c7b-441f-9dbb-54f1b7451954",
+            "Value": {
+                "id": "e0aaac1e-3234-4930-9a3c-aa4e8b8f906d",
+                "resourcePath": "sprites\\frg_waves\\frg_waves.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
