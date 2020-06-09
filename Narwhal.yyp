@@ -343,14 +343,6 @@
             }
         },
         {
-            "Key": "b595f05c-1f06-42c8-b28b-f0299647b5a9",
-            "Value": {
-                "id": "ae755c0d-8520-40ab-8761-4310a532f9ba",
-                "resourcePath": "objects\\obj_fluid_creator\\obj_fluid_creator.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "b7f0d1bd-b198-470d-bf8d-eedbd0908801",
             "Value": {
                 "id": "e0ac7333-33e0-469e-abe7-3d0d7e88b366",
