@@ -6,7 +6,7 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 2389,
+    "bbox_bottom": 3999,
     "bbox_left": 0,
     "bbox_right": 1919,
     "bbox_top": 570,
@@ -16,34 +16,34 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "fa63f96e-951e-4084-93a6-ba5eb4ca8d2c",
+            "id": "49128ecb-c9b1-4052-88ba-21466b736bc2",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "b15364de-6e22-4b79-8db1-d7d405d8554b",
             "compositeImage": {
-                "id": "305d4cf8-f9a2-46d5-84f1-f974f2773a68",
+                "id": "b0334770-0ea2-403a-b778-c613d65b08cb",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "fa63f96e-951e-4084-93a6-ba5eb4ca8d2c",
+                "FrameId": "49128ecb-c9b1-4052-88ba-21466b736bc2",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "9b21d6d1-d1e6-4c80-93b5-59f240f9e014",
+                    "id": "2d0e18e2-2cdb-44c4-b30d-619ff920fa13",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "fa63f96e-951e-4084-93a6-ba5eb4ca8d2c",
-                    "LayerId": "cc65f886-6c52-48c2-a1fd-d0573fba194f"
+                    "FrameId": "49128ecb-c9b1-4052-88ba-21466b736bc2",
+                    "LayerId": "20dd8f3a-2449-4155-9e28-3b0ac7a5d85f"
                 }
             ]
         }
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 2390,
+    "height": 4000,
     "layers": [
         {
-            "id": "cc65f886-6c52-48c2-a1fd-d0573fba194f",
+            "id": "20dd8f3a-2449-4155-9e28-3b0ac7a5d85f",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "b15364de-6e22-4b79-8db1-d7d405d8554b",
@@ -66,5 +66,5 @@
     "type": 0,
     "width": 1920,
     "xorig": 960,
-    "yorig": 2389
+    "yorig": 3999
 }

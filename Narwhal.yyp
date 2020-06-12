@@ -106,7 +106,7 @@
             "Key": "44f5df29-5b24-4647-84c1-e5de68c0943f",
             "Value": {
                 "id": "2eb77dff-8f4f-4fdc-8786-60c93256ea62",
-                "resourcePath": "sprites\\bckg_dno\\bckg_dno.yy",
+                "resourcePath": "sprites\\bckg_dno_back\\bckg_dno_back.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -324,6 +324,14 @@
                 "id": "6da01fb8-f9f0-4ef2-8ad3-179c9b2df5b9",
                 "resourcePath": "views\\a6d01233-0354-4717-845e-01df90260ae6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ab2b1e64-7e17-4ae4-b9f2-d1d09ce6f5e6",
+            "Value": {
+                "id": "8a2fbc1c-f9b3-4c4c-87de-ab3cdc96d09a",
+                "resourcePath": "sprites\\bckg_dno_front\\bckg_dno_front.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

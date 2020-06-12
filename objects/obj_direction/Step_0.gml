@@ -1,10 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 //y = camera_get_view_y(view_camera[0]) + (yy - y);
-if (camera_get_view_y(view_camera[0]) < 1350) {
+if (camera_get_view_y(view_camera[0]) < 2960) {
 	yy = camera_get_view_y(view_camera[0]) + 805;
 } else {
-	yy = 1625;
+	yy = 3235;
 }
 
 if (dragging = true) {
