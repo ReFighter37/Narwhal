@@ -12,3 +12,5 @@ if (y >= global.water_level) {
 if (y > 3860) {
 	y = 3860;
 }
+
+

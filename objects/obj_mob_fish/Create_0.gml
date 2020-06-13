@@ -9,8 +9,8 @@ image_yscale = image_xscale;
 
 image_index = irandom_range(0, 7);
 direction = 0;
-speed = irandom_range(-10, -2);
-if (speed < -4) {
+speed = irandom_range(-14, -2);
+if (speed < -6) {
 	image_xscale = image_xscale*(-1);
 }
 
