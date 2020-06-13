@@ -4,6 +4,9 @@ catched = false;
 angle = 0;
 x_pos = 0;
 
+image_xscale = random_range(0.4, 0.6);
+image_yscale = image_xscale;
+
 image_index = irandom_range(0, 1);
 direction = 0;
 speed = irandom_range(-10, -2);
