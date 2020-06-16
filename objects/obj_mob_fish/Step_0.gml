@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+speed = spd * global.speedup
 
 if (x < -32) /*or (x > 2100)*/ {
 	instance_destroy(self);	

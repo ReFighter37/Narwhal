@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1481c807-4873-4b61-8976-6f3b360f073a",
+            "Value": {
+                "id": "b3e53eb9-e375-4b00-889f-ef86da725953",
+                "resourcePath": "sprites\\spr_speed_button\\spr_speed_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "15d5b33e-4ab4-493b-88c3-68009d012c83",
             "Value": {
                 "id": "f3c5c361-70cb-4a1a-be6e-815cf5e9dcc2",
@@ -163,6 +171,14 @@
             "Value": {
                 "id": "14634d5e-3642-4be0-a28c-fb97e389e885",
                 "resourcePath": "sprites\\spr_direction_button\\spr_direction_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "61eba4b7-9b2d-4581-872f-05a5836aedc3",
+            "Value": {
+                "id": "9ec6027c-b430-4aee-9e2e-ae44c7118764",
+                "resourcePath": "sprites\\spr_bar\\spr_bar.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -364,6 +380,14 @@
                 "id": "664bff73-b542-44f2-9515-94831dca027d",
                 "resourcePath": "sprites\\bckg_waves_back\\bckg_waves_back.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b5e14a56-39e8-48c1-9395-e59ba83fe7e6",
+            "Value": {
+                "id": "123862f5-3770-4847-a0fa-79fee14d1da3",
+                "resourcePath": "objects\\obj_speed_button\\obj_speed_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {

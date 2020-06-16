@@ -9,8 +9,9 @@ image_yscale = image_xscale;
 
 image_index = irandom_range(0, 7);
 direction = 0;
-speed = irandom_range(-14, -2);
-if (speed < -6) {
+spd = irandom_range(-14, -2);
+speed = spd * global.speedup
+if (spd < -7) {
 	image_xscale = image_xscale*(-1);
 }
 

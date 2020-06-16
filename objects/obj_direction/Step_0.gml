@@ -23,3 +23,4 @@ if (dragging = true) {
 	}
 }
 
+hp -= 0.02*global.speedup

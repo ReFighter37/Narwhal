@@ -4,3 +4,5 @@ dragging = false;
 xx = x;
 yy = obj_narval.y + 341;
 y = obj_narval.y + 341;
+
+hp = 100
