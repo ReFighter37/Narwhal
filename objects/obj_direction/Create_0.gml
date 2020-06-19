@@ -4,5 +4,6 @@ dragging = false;
 xx = x;
 yy = obj_narval.y + 341;
 y = obj_narval.y + 341;
+btn = -1;
 
-hp = 100
+hp = 100;
