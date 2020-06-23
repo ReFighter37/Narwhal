@@ -7,7 +7,7 @@ scale = random_range(0.4, 0.7);
 image_xscale = scale;
 image_yscale = image_xscale;
 
-image_index = irandom_range(0, 7);
+image_index = irandom_range(1, 11);
 direction = 0;
 spd = irandom_range(-14, -2);
 speed = spd * global.speedup
@@ -15,7 +15,7 @@ if (spd < -7) {
 	image_xscale = image_xscale*(-1);
 }
 
-_partabc_shape=pt_shape_ring
+/*_partabc_shape=pt_shape_ring
 _partabc_count=1
 _partabc_sprite=0
 _partabc_col1=16744576
@@ -71,7 +71,7 @@ part_type_life(_partabc,_partabc_lifemin,_partabc_lifemax)
 part_type_blend(_partabc,_partabc_abl)
 _emiabc=part_emitter_create(_sysabc)
 part_emitter_region(_sysabc,_emiabc,x-_emiabc_radius,x+_emiabc_radius,y-_emiabc_radius,y+_emiabc_radius,_emiabc_shape,_emiabc_distr)
-
+*/
 /* PARTICLE CREATION. default is stream, uncomment to burst. Place in the event
 that should start your particle creation, Aerohawk Effects 4 uses the CREATE event. */
 

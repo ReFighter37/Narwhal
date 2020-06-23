@@ -3,4 +3,5 @@
 if (catched = false) {
 catched = true;
 angle = obj_narval.image_angle;
+obj_direction.hp += 6*abs(spd/8)
 }
