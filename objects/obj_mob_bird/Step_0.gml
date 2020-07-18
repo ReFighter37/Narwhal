@@ -8,7 +8,7 @@ if (x < -32) /*or (x > 2100)*/ {
 
 if (catched = true) {
 	x_pos += 1;
-	y = obj_narval.y + lengthdir_y(obj_narval.sprite_width/2-x_pos, obj_narval.image_angle+20);	
+	y = obj_narval.y + lengthdir_y(obj_narval.sprite_width/2-x_pos, obj_narval.image_angle+5);	
 	x = obj_narval.x + lengthdir_x(obj_narval.sprite_width/2-x_pos, obj_narval.image_angle+20);	
 	speed = 0;
 	image_alpha -= 0.015;
