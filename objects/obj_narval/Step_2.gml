@@ -3,6 +3,12 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+part_type_destroy(_partabc);
+
+part_emitter_destroy(_sysabc, _emiabc);
+
+part_system_destroy(_sysabc);
+
 sPartSprite=choose(spr_wave_1, spr_wave_2, spr_wave_3)
 
 
