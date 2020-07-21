@@ -5,7 +5,9 @@ if (catched = false) {
 		part_emitter_region(_sysabc,_emiabc,x-_emiabc_radius,x+_emiabc_radius,y-_emiabc_radius,y+_emiabc_radius,_emiabc_shape,_emiabc_distr)
 		part_emitter_burst(_sysabc,_emiabc,_partabc,_partabc_count)
 		obj_direction.hp -= 15
-		instance_destroy(self)
+		catched = true
+		image_alpha = 0
+		alarm[0] = room_speed * 0.5
 	} else {
 		catched = true;
 		angle = obj_narval.image_angle;
