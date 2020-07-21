@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-alarm[0] = room_speed * irandom_range(2,5) / global.speedup
+obj_direction.hp -= 0.05
+vspeed = vspeed/2
+global.speedup = global.speedup/2

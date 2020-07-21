@@ -14,7 +14,7 @@ layer_hspeed(layer5, layer5_spd*global.speedup)*/
 
 for (i=0; i < 2;  i++) {
 	if (device_mouse_check_button(i, mb_left) && point_in_rectangle(device_mouse_x(i),device_mouse_y(i), bbox_left, bbox_top, bbox_right, bbox_bottom)) {
-		global.speedup = 2 * (1 + current_time/1000000);
+		global.speedup = 2 * (1 + current_time/10000000);
 		layer_hspeed(layer1, layer1_spd*global.speedup)
 		layer_hspeed(layer2, layer2_spd*global.speedup)
 		layer_hspeed(layer3, layer3_spd*global.speedup)
@@ -25,10 +25,10 @@ for (i=0; i < 2;  i++) {
 }
 
 if (pressed == false) {
-		global.speedup = 1 * (1 + current_time/1000000)
-		layer_hspeed(layer1, layer1_spd)
-		layer_hspeed(layer2, layer2_spd)
-		layer_hspeed(layer3, layer3_spd)
-		layer_hspeed(layer4, layer4_spd)
-		layer_hspeed(layer5, layer5_spd)
+		global.speedup = 1 * (1 + current_time/10000000)
+		layer_hspeed(layer1, layer1_spd*global.speedup)
+		layer_hspeed(layer2, layer2_spd*global.speedup)
+		layer_hspeed(layer3, layer3_spd*global.speedup)
+		layer_hspeed(layer4, layer4_spd*global.speedup)
+		layer_hspeed(layer5, layer5_spd*global.speedup)
 }

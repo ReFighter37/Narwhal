@@ -8,6 +8,10 @@ if (catched = false) {
 		catched = true
 		image_alpha = 0
 		alarm[0] = room_speed * 0.5
+	} else if (image_index = 7) {
+		catched = true
+		instance_create_depth(x, y, depth+1, obj_fluid_green)
+		obj_direction.hp -= 2*abs(spd/2)
 	} else {
 		catched = true;
 		angle = obj_narval.image_angle;
